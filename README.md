@@ -15,7 +15,7 @@ A simple and clean calculator built with **HTML**, **CSS**, and **JavaScript**.
 
 ## 🚀 Live Demo
 
-👉 [View Calculator Online](https://your-github-Ameen021.github.io/calculator-project/)  
+👉  https://ameen021.github.io/calculator-project/
 
 ---
 
